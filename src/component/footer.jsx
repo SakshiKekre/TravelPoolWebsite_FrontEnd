@@ -14,8 +14,8 @@ const Footer = () => {
                     <ProjectLogo />
                     <div style={{ textAlign: 'left' }}>
                         <h5>Developer </h5>
-                        <h5><Nav.Link href="https://www.linkedin.com/in/raghav-sharma-80629a147/" target="_blank">Raghav Sharma</Nav.Link></h5>
-                        <h5><Nav.Link href="mailto: 96raghavsharma@gmail.com">96raghavsharma@gmail.com</Nav.Link></h5>
+                        <h5><Nav.Link href="https://www.linkedin.com/in/sakshikekre/" target="_blank">Sakshi Kekre</Nav.Link></h5>
+                        <h5><Nav.Link href="mailto: sakshi.kekre@gmail.com">sakshi.kekre@gmail.com</Nav.Link></h5>
                     </div>
                 </Navbar.Brand>
 

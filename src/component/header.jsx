@@ -14,8 +14,8 @@ const Header = () => {
                     <ProjectLogo />
                 </Navbar.Brand>
                 <Nav>
-                    <Badge pill bg="light"><Nav.Link href="https://www.linkedin.com/in/raghav-sharma-80629a147/" target="_blank"> <Image src='../../linkedin-icon-60.svg' /></Nav.Link></Badge>
-                    <Badge pill bg="light"><Nav.Link href="https://github.com/raghavsharma1729/" target="_blank"> <Image src='../../github-icon-60.svg' /></Nav.Link> </Badge>
+                    <Badge pill bg="light"><Nav.Link href="https://www.linkedin.com/in/sakshikekre/" target="_blank"> <Image src='../../linkedin-icon-60.svg' /></Nav.Link></Badge>
+                    <Badge pill bg="light"><Nav.Link href="https://github.com/SakshiKekre/" target="_blank"> <Image src='../../github-icon-60.svg' /></Nav.Link> </Badge>
                 </Nav>
             </Container>
         </Navbar >
