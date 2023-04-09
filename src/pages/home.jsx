@@ -16,7 +16,7 @@ const Home = () => {
                 <Col>
                     <div style={{ textAlign: 'left' }}>
                         <h2>
-                            Why Cloud Storage ?
+                            Why Cloud based CI/CD?
                         </h2>
                         <h3> If you're looking for a safe and reliable way to store your important files, then you should consider using
                             cloud storage. Cloud storage is an effective way to protect your files from being lost if something happens to
